@@ -12,6 +12,8 @@ We'll get the code and get started with Github Codespaces
 
 ### Steps
 
+![Actions Workshop - Media Party - Oct 2023 001](https://github.com/jkeefe/actions-workshop/assets/312347/dd4d7d83-c420-432e-87a4-b04003b6b950)
+
 - working on a computer in the cloud ... it's called a codespace
 
 - go to my repo: https://github.com/jkeefe/actions-workshop
